@@ -1,0 +1,12 @@
+{
+  "name": "Pantallass",
+  "displayName": "Pantallass",
+  "expo": {
+    "name": "Pantallass",
+    "slug": "Pantallass",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
