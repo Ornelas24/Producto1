@@ -6,7 +6,11 @@
     "slug": "Pantallass",
     "version": "1.0.0",
     "assetBundlePatterns": [
-      "**/*"
-    ]
+      "assets/*"
+    ],
+    "android":{
+      "package": "com.jesusornelas.utp",
+      "versionCode": 1
+    }
   }
 }
